@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4558858-48a3-4700-9042-5310e8df6ca3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WVD3cbrxyLGRskbsQPS8ycTYaZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Main">
+    <configuration name="Characters" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TankWar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TankWar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestingFile" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TankWar" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestingFile.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.TestingFile" />
+        <item itemvalue="Python.Characters" />
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4558858-48a3-4700-9042-5310e8df6ca3" name="Default Changelist" comment="" />
+      <created>1579225670232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579225670232</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="183" y="177" width="646" height="758" key="#Main" timestamp="1579736816560">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="183" y="177" width="646" height="758" key="#Main/0.32.1920.1048@0.32.1920.1048" timestamp="1579736816560" />
+    <state x="248" y="305" width="528" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579491459022">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="248" y="305" width="528" height="499" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1579491459022" />
+    <state x="298" y="314" width="428" height="481" key="FileChooserDialogImpl" timestamp="1580741321921">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="298" y="314" width="428" height="481" key="FileChooserDialogImpl/0.32.1920.1048@0.32.1920.1048" timestamp="1580741321921" />
+    <state width="986" height="277" key="GridCell.Tab.0.bottom" timestamp="1580496589031">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="277" key="GridCell.Tab.0.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1580496589031" />
+    <state width="986" height="277" key="GridCell.Tab.0.center" timestamp="1580496589029">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="277" key="GridCell.Tab.0.center/0.32.1920.1048@0.32.1920.1048" timestamp="1580496589029" />
+    <state width="986" height="277" key="GridCell.Tab.0.left" timestamp="1580496589027">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="277" key="GridCell.Tab.0.left/0.32.1920.1048@0.32.1920.1048" timestamp="1580496589027" />
+    <state width="986" height="277" key="GridCell.Tab.0.right" timestamp="1580496589030">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="277" key="GridCell.Tab.0.right/0.32.1920.1048@0.32.1920.1048" timestamp="1580496589030" />
+    <state width="986" height="342" key="GridCell.Tab.1.bottom" timestamp="1580487483072">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="342" key="GridCell.Tab.1.bottom/0.32.1920.1048@0.32.1920.1048" timestamp="1580487483072" />
+    <state width="986" height="342" key="GridCell.Tab.1.center" timestamp="1580487483070">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="342" key="GridCell.Tab.1.center/0.32.1920.1048@0.32.1920.1048" timestamp="1580487483070" />
+    <state width="986" height="342" key="GridCell.Tab.1.left" timestamp="1580487483070">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="342" key="GridCell.Tab.1.left/0.32.1920.1048@0.32.1920.1048" timestamp="1580487483070" />
+    <state width="986" height="342" key="GridCell.Tab.1.right" timestamp="1580487483071">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state width="986" height="342" key="GridCell.Tab.1.right/0.32.1920.1048@0.32.1920.1048" timestamp="1580487483071" />
+    <state x="4" y="191" key="SettingsEditor" timestamp="1579227047543">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="4" y="191" key="SettingsEditor/0.32.1920.1048@0.32.1920.1048" timestamp="1579227047543" />
+    <state x="171" y="383" key="com.intellij.ide.util.TipDialog" timestamp="1582736720598">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="171" y="383" key="com.intellij.ide.util.TipDialog/0.32.1920.1048@0.32.1920.1048" timestamp="1582736720597" />
+    <state x="1058" y="32" width="827" height="708" key="dock-window-1" timestamp="1580484542435">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="1058" y="32" width="827" height="708" key="dock-window-1/0.32.1920.1048@0.32.1920.1048" timestamp="1580484542435" />
+    <state x="729" y="364" key="save.file.as.template.dialog" timestamp="1581428611448">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="729" y="364" key="save.file.as.template.dialog/0.32.1920.1048@0.32.1920.1048" timestamp="1581428611448" />
+    <state x="171" y="263" width="672" height="678" key="search.everywhere.popup" timestamp="1580311568591">
+      <screen x="0" y="32" width="1920" height="1048" />
+    </state>
+    <state x="171" y="263" width="672" height="678" key="search.everywhere.popup/0.32.1920.1048@0.32.1920.1048" timestamp="1580311568591" />
+  </component>
+</project>
